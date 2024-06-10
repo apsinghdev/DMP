@@ -3,6 +3,7 @@
 
 1. Allows for custom event handling with a simple API.
 
+
 2. Supports built-in events like connect, disconnect, and error.
 
 3. Automatically falls back to long polling or other transport methods if WebSockets are not available.
