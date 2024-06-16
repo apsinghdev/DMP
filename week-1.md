@@ -11,6 +11,7 @@ In this week, I will be building a minimal frontend layout for the collaboration
 
 In the last meeting with mentors, I presented a layout for the collaboration space. That layout contains an `exit` button, a `room` where the project will be shared among all the users, a component to `copy` the link and a `chat` section. Below is the image of the layout I presented.
 
+![](./layout.png)
 
 Mentor Walter provided his feedback to first focus on the `collaboration` part first and get a basic version of it up and running. Also he suggested to consider other ways to integrate the `chat` feature like floating window, toggle etc for the best optimization of the screen. 
 
@@ -24,9 +25,9 @@ Hence, I will be focusing on having a minimal frontend layout first and will add
 
 ## Work Objectives
 
-I have raised a PR to add `collaborate` button in the project's `GlobalCard`. It got approved by the mentors as well.
-Below is the image of the changes.
+I have raised a PR to add `collaborate` button in the project's `GlobalCard`. It got approved by the mentors as well. Below is the image of the changes.
 
+![](./collab-btn.png)
 
 This week we also have to setup CMS for DMP and have to finalize the ticket to work upon. After this took place, I'll raise PR to add the layout. 
 
