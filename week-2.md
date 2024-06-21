@@ -17,6 +17,8 @@ This step required some reverse engineering. I have observed the implementation 
 
 The Collaboration Space contains a blank screen and an exit button for now. When the exit button is clicked, it takes the user back to the #global tab.
 
+![](./msg2.png)
+
 ### Setting up the server
 
 In the development process, I would need a local server to test the implementation of the messages sent through the Y.js mechanism over the WebSockets. I have created an express sever named dmps configuring the Y.js and Socket.io for this.
